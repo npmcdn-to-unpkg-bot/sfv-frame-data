@@ -1,0 +1,35 @@
+{
+  "name": "sfv_frame_data",
+  "version": "0.0.0",
+  "description": "Street Fighter V Frame Data",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.4.3",
+    "express": "^4.4.5",
+    "react-router": "^2.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bsanantonio/sfv-frame-data"
+  },
+  "keywords": [
+    "sfv",
+    "street fighter v",
+    "sf5",
+    "street fighter 5",
+    "frame data"
+  ],
+  "author": "bsanantonio",
+  "bugs": {
+    "url": "https://github.com/bsanantonio/sfv-frame-data/issues"
+  },
+  "homepage": "https://github.com/bsanantonio/sfv-frame-data",
+  "engines": {
+    "node": "0.12.x"
+  }
+}
